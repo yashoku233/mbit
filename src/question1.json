@@ -1,0 +1,456 @@
+[
+    {
+        "indexer":"27",
+        "answer": {
+            "A": {
+                "text": "    A注重隐私",
+                "returnvalue": "I"
+            },
+                "B": {
+                "text": "   B坦率开放",
+                "returnvalue": "E"
+                }
+        },
+        "index":26
+    },
+    {
+        "indexer":"28",
+        "answer": {
+            "A": {
+                "text": "    A预先安排的",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": "   B无计划的",
+                "returnvalue": "P"
+                }
+        },
+        "index":27
+    },
+    {
+        "indexer":"29",
+        "answer": {
+            "A": {
+                "text": "    A抽象",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "   B具体",
+                "returnvalue": "S"
+                }
+        },
+        "index":28
+    },
+    {
+        "indexer":"30",
+        "answer": {
+            "A": {
+                "text": "    A温柔",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "   B坚定",
+                "returnvalue": "T"
+                }
+        },
+        "index":29
+    },
+    {
+        "indexer":"31",
+
+        "answer": {
+            "A": {
+                "text": "    A思考 ",
+                "returnvalue": "T"
+            },
+                "B": {
+                "text": "   B感受 ",
+                "returnvalue": "F"
+                }
+        },
+        "index":30
+    },
+    {
+        "indexer":"32",
+
+        "answer": {
+            "A": {
+                "text": "    A事实",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": "   B意念",
+                "returnvalue": "N"
+                }
+        },
+        "index":31
+    },
+    {
+        "indexer":"33",
+
+        "answer": {
+            "A": {
+                "text": "    A冲动",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": "   B决定",
+                "returnvalue": "P"
+                }
+        },
+        "index":32
+    },
+    {
+        "indexer":"34",
+
+        "answer": {
+            "A": {
+                "text": "    A热衷",
+                "returnvalue": "E"
+            },
+                "B": {
+                "text": "   B文静",
+                "returnvalue": "I"
+                }
+        },
+        "index":33
+    },
+    {
+        "indexer":"35",
+
+        "answer": {
+            "A": {
+                "text": "    A文静  ",
+                "returnvalue": "I"
+            },
+                "B": {
+                "text": "   B内向",
+                "returnvalue": "E"
+                }
+        },
+        "index":34
+    },
+    {
+        "indexer":"36",
+        "answer": {
+            "A": {
+                "text": " A有系统   ",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": " B随意",
+                "returnvalue": "P"
+                }
+        },
+        "index":35
+    },
+    {
+        "indexer":"37",
+        "answer": {
+            "A": {
+                "text": " A理论          ",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": " B肯定",
+                "returnvalue": "S"
+                }
+        },
+        "index":36
+    },
+    {
+        "indexer":"38",
+        "answer": {
+            "A": {
+                "text": " A敏感  ",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "  B公正",
+                "returnvalue": "T"
+                }
+        },
+        "index":37
+    },
+    {
+        "indexer":"39",
+        "answer": {
+            "A": {
+                "text": "A令人信服  ",
+                "returnvalue": "T"
+            },
+                "B": {
+                "text": "  B感人的",
+                "returnvalue": "F"
+                }
+        },
+        "index":38
+    },
+    {
+        "indexer":"40",
+        "answer": {
+            "A": {
+                "text": "A声明 ",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": "   B概念",
+                "returnvalue": "N"
+                }
+        },
+        "index":39
+    },
+    {
+        "indexer":"41",
+        "answer": {
+            "A": {
+                "text": "A不受约束 ",
+                "returnvalue": "P"
+            },
+                "B": {
+                "text": " B预先安排",
+                "returnvalue": "J"
+                }
+        },
+        "index":40
+    },
+    {
+        "indexer":"42",
+        "answer": {
+            "A": {
+                "text": "A矜持  ",
+                "returnvalue": "I"
+            },
+                "B": {
+                "text": "   B健谈",
+                "returnvalue": "E"
+                }
+        },
+        "index":41
+    },
+    {
+        "indexer":"43",
+        "answer": {
+            "A": {
+                "text": "A有条不紊 ",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": "   B不拘小节",
+                "returnvalue": "P"
+                }
+        },
+        "index":42
+    },
+    {
+        "indexer":"44",
+        "answer": {
+            "A": {
+                "text": "A意念 ",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "   B实况",
+                "returnvalue": "S"
+                }
+        },
+        "index":43
+    },
+    {
+        "indexer":"45",
+        "answer": {
+            "A": {
+                "text": "A同情怜悯 ",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "   B远见",
+                "returnvalue": "T"
+                }
+        },
+        "index":44
+    },
+    {
+        "indexer":"46",
+        "answer": {
+            "A": {
+                "text": "A利益 ",
+                "returnvalue": "T"
+            },
+                "B": {
+                "text": "   B祝福",
+                "returnvalue": "F"
+                }
+        },
+        "index":45
+    },
+    {
+        "indexer":"47",
+        "answer": {
+            "A": {
+                "text": "A务实的 ",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": "  B理论的",
+                "returnvalue": "N"
+                }
+        },
+        "index":46
+    },
+    {
+        "indexer":"48",
+        "answer": {
+            "A": {
+                "text": "A朋友不多 ",
+                "returnvalue": "I"
+            },
+                "B": {
+                "text": "  B朋友众多",
+                "returnvalue": "E"
+                }
+        },
+        "index":47
+    },
+    {
+        "indexer":"49",
+        "answer": {
+            "A": {
+                "text": "A有系统  ",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": "  B即兴",
+                "returnvalue": "P"
+                }
+        },
+        "index":48
+    },
+    {
+        "indexer":"50",
+        "answer": {
+            "A": {
+                "text": "A富想象的  ",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "  B以事论事",
+                "returnvalue": "S"
+                }
+        },
+        "index":49
+    },
+    {
+        "indexer":"51",
+        "answer": {
+            "A": {
+                "text": "A亲切的 ",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "  B以事论事",
+                "returnvalue": "T"
+                }
+        },
+        "index":50
+    },
+    {
+        "indexer":"52",
+        "answer": {
+            "A": {
+                "text": "A客观的",
+                "returnvalue": "T"
+            },
+                "B": {
+                "text": "  B热情的",
+                "returnvalue": "F"
+                }
+        },
+        "index":51
+    },    
+    {
+        "indexer":"53",
+        "answer": {
+            "A": {
+                "text": "A建造 ",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": "   B发明",
+                "returnvalue": "N"
+                }
+        },
+        "index":52
+    },
+    {
+        "indexer":"54",
+        "answer": {
+            "A": {
+                "text": "A文静 ",
+                "returnvalue": "I"
+            },
+                "B": {
+                "text": "    B爱合群",
+                "returnvalue": "E"
+                }
+        },
+        "index":53
+    },
+    {
+        "indexer":"55",
+        "answer": {
+            "A": {
+                "text": "A理论  ",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "    B事实",
+                "returnvalue": "S"
+                }
+        },
+        "index":54
+    },
+    {
+        "indexer":"56",
+        "answer": {
+            "A": {
+                "text": "A富同情   ",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "    B合逻辑",
+                "returnvalue": "T"
+                }
+        },
+        "index":55
+    },
+    {
+        "indexer":"57",
+        "answer": {
+            "A": {
+                "text": "A具分析力  ",
+                "returnvalue": "T"
+            },
+                "B": {
+                "text": "    B多愁善感",
+                "returnvalue": "F"
+                }
+        },
+        "index":56
+    },
+    {
+        "indexer":"58",
+        "answer": {
+            "A": {
+                "text": "A合情合理  ",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "    B令人着迷",
+                "returnvalue": "S"
+                }
+        },
+        "index":57
+    }
+
+]

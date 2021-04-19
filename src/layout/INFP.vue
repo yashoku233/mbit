@@ -1,0 +1,38 @@
+<template>
+  <div class="containers">
+    <h2>【MBTI十六种人格类型】 </h2>
+    <h4 align="center">INFP</h4>
+    <p>1.安静观察者，具理想性与对其价值观及重要之人具忠诚心。</p>
+    <p>2.希外在生活形态与内在价值观相吻合。</p>
+    <p>3.具好奇心且很快能看出机会所在。常担负开发创意的触媒者。</p>
+    <p>4.除非价值观受侵犯，行事会具弹性、适应力高且承受力强。</p>
+    <p>5.具想了解及发展他人潜能的企图。想作太多且作事全神贯注。</p>
+    <p>6.对所处境遇及拥有不太在意。</p>
+    <p>7.具适应力、有弹性除非价值观受到威胁。</p>
+  </div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style lang="scss" scoped>
+.containers {
+  width: 800px;
+  margin: 0px auto;
+  h2 {
+    margin-top: 40px;
+    color: red;
+  }
+  h4 {
+    color: #ff6600;
+  }
+  p {
+    text-align: center;
+    font-weight: 700;
+
+  }
+}
+</style>

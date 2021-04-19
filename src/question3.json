@@ -1,0 +1,212 @@
+[
+    {
+        "indexer":"79",
+        "answer": {
+            "A": {
+                "text": "A想象的",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "   B真实的",
+                "returnvalue": "S"
+                }
+        },
+        "index":78
+    },
+    {
+        "indexer":"80",
+        "answer": {
+            "A": {
+                "text": "    A仁慈慷慨的",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "   B意志坚定的",
+                "returnvalue": "T"
+                }
+        },
+        "index":79
+    },
+    {
+        "indexer":"81",
+        "answer": {
+            "A": {
+                "text": "    A公正的",
+                "returnvalue": "T"
+            },
+                "B": {
+                "text": "   B有关怀心",
+                "returnvalue": "F"
+                }
+        },
+        "index":80
+    },
+    {
+        "indexer":"82",
+        "answer": {
+            "A": {
+                "text": "   A制作",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": "   B设计",
+                "returnvalue": "N"
+                }
+        },
+        "index":81
+    },
+    {
+        "indexer":"83",
+        "answer": {
+            "A": {
+                "text": "   A可能性",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "   B必然性",
+                "returnvalue": "S"
+                }
+        },
+        "index":82
+    },
+    {
+        "indexer":"84",
+        "answer": {
+            "A": {
+                "text": "   A温柔",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "   B力量",
+                "returnvalue": "T"
+                }
+        },
+        "index":83
+    },
+    {
+        "indexer":"85",
+        "answer": {
+            "A": {
+                "text": "   A实际",
+                "returnvalue": "T"
+            },
+                "B": {
+                "text": "   B多愁善感",
+                "returnvalue": "F"
+                }
+        },
+        "index":84
+    },
+    {
+        "indexer":"86",
+        "answer": {
+            "A": {
+                "text": "  A制造 ",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": "   B创造",
+                "returnvalue": "N"
+                }
+        },
+        "index":85
+    },
+    {
+        "indexer":"87",
+        "answer": {
+            "A": {
+                "text": "  A新颖的 ",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "   B已知的",
+                "returnvalue": "S"
+                }
+        },
+        "index":86
+    },
+    {
+        "indexer":"88",
+        "answer": {
+            "A": {
+                "text": "  A同情 ",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "   B分析",
+                "returnvalue": "T"
+                }
+        },
+        "index":87
+    },
+    {
+        "indexer":"89",
+        "answer": {
+            "A": {
+                "text": " A坚持己见  ",
+                "returnvalue": "T"
+            },
+                "B": {
+                "text": "B温柔有爱心",
+                "returnvalue": "F"
+                }
+        },
+        "index":88
+    },
+    {
+        "indexer":"90",
+        "answer": {
+            "A": {
+                "text": " A具体的   ",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": "B抽象的",
+                "returnvalue": "N"
+                }
+        },
+        "index":89
+    },
+    {
+        "indexer":"91",
+        "answer": {
+            "A": {
+                "text": " A全心投入   ",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "B有决心的",
+                "returnvalue": "T"
+                }
+        },
+        "index":90
+    },
+    {
+        "indexer":"92",
+        "answer": {
+            "A": {
+                "text": " A能干   ",
+                "returnvalue": "T"
+            },
+                "B": {
+                "text": " B创新 ",
+                "returnvalue": "F"
+                }
+        },
+        "index":91
+    },
+    {
+        "indexer":"93",
+        "answer": {
+            "A": {
+                "text": " A实际   ",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": "B仁慈",
+                "returnvalue": "N"
+                }
+        },
+        "index":92
+    }
+]

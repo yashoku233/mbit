@@ -1,0 +1,367 @@
+[
+    {
+        "question": "1:当你要外出一整天，你会? ",
+        "answer": {
+            "A": {
+                "text": "A 计划你要做什么和在什么时候做,",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": "B 说去就去",
+                "returnvalue": "P"
+                }
+        },
+        "index":0
+    },
+    {
+        "question": "2:你认为自己是个",
+        "answer": {
+            "A": {
+                "text": "  A较为随兴所至的人,",
+                "returnvalue": "P"
+            },
+                "B": {
+                "text": "  B较为有条理的人",
+                "returnvalue": "J"
+                }
+        },
+        "index":1
+    },
+    {
+        "question": "3:假如你是一位老师，你会选教",
+        "answer": {
+            "A": {
+                "text": "A以事实为主的课程,",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": "B涉及理论的课程",
+                "returnvalue": "N"
+                }
+        },
+        "index":2
+    },
+    {
+        "question": "4:你通常",
+        "answer": {
+            "A": {
+                "text": " A与人容易混熟,",
+                "returnvalue": "E"
+            },
+                "B": {
+                "text": "B比较沉静或矜持",
+                "returnvalue": "I"
+                }
+        },
+        "index":3
+    },
+    {
+        "question": "5:一般来说，你和哪些人比较合得来",
+        "answer": {
+            "A": {
+                "text": "   A富于想象力的人，",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "B现实的人",
+                "returnvalue": "S"
+                }
+        },
+        "index":4
+    },
+    {
+        "question": "6:你是否经常让",
+        "answer": {
+            "A": {
+                "text": "   A你的情感支配你的理智，",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": "B你的理智主宰你的情感",
+                "returnvalue": "T"
+                }
+        },
+        "index":5
+    },
+    {
+        "question": "7:处理许多事情上，你会喜欢",
+        "answer": {
+            "A": {
+                "text": "   A凭兴所至行事，",
+                "returnvalue": "P"
+            },
+                "B": {
+                "text": "B按照计划行事",
+                "returnvalue": "J"
+                }
+        },
+        "index":6
+    },
+    {
+        "question": "8:你是否",
+        "answer": {
+            "A": {
+                "text": "   A容易让人了解",
+                "returnvalue": "E"
+            },
+                "B": {
+                "text": "或是，B难于让人了解",
+                "returnvalue": "I"
+                }
+        },
+        "index":7
+    },
+    {
+        "question": "9:按照程序表做事， ",
+        "answer": {
+            "A": {
+                "text": "     A合你心意,",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": " B令你感到束缚",
+                "returnvalue": "P"
+                }
+        },
+        "index":8
+    },
+    {
+        "question": "10:当你有一份特别的任务，你会喜欢 ",
+        "answer": {
+            "A": {
+                "text": " A开始前小心组织计划，",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": " B边做边找须做什么",
+                "returnvalue": "P"
+                }
+        },
+        "index":9
+    },
+    {
+        "question": "11:在大多数情况下，你会选择 ",
+        "answer": {
+            "A": {
+                "text": " A顺其自然，",
+                "returnvalue": "P"
+            },
+                "B": {
+                "text": " B按程序表做事",
+                "returnvalue": "J"
+                }
+        },
+        "index":10
+    },
+    {
+        "question": "12:大多数人会说你是一个 ",
+        "answer": {
+            "A": {
+                "text": " A重视自我隐私的人，",
+                "returnvalue": "I"
+            },
+                "B": {
+                "text": " B非常坦率开放的人",
+                "returnvalue": "E"
+                }
+        },
+        "index":11
+    },
+    {
+        "question": "13:你宁愿被人认为是一个 ",
+        "answer": {
+            "A": {
+                "text": "  A实事求是的人，",
+                "returnvalue": "S"
+            },
+                "B": {
+                "text": " B机灵的人",
+                "returnvalue": "N"
+                }
+        },
+        "index":12
+    },
+    {
+        "question": "14:在一大群人当中，通常是 ",
+        "answer": {
+            "A": {
+                "text": "   A你介绍大家认识",
+                "returnvalue": "E"
+            },
+                "B": {
+                "text": " B别人介绍你",
+                "returnvalue": "I"
+                }
+        },
+        "index":13 
+    },
+    {
+        "question": "15:你会跟哪些人做朋友？ ",
+        "answer": {
+            "A": {
+                "text": "     A常提出新注意的，",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": " B脚踏实地的",
+                "returnvalue": "S"
+                }
+        },
+        "index":14
+    },
+    {
+        "question": "16:你倾向 ",
+        "answer": {
+            "A": {
+                "text": "   A重视感情多于逻辑，",
+                "returnvalue": "F"
+            },
+                "B": {
+                "text": " B重视逻辑多于感情",
+                "returnvalue": "T"
+                }
+        },
+        "index":15
+    },
+    {
+        "question": "17:你比较喜欢 ",
+        "answer": {
+            "A": {
+                "text": "   A坐观事情发展才作计划，",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": " B很早就作计划",
+                "returnvalue": "P"
+                }
+        },
+        "index":16
+    },
+    {
+        "question": "18:你比较喜欢 ",
+        "answer": {
+            "A": {
+                "text": "    A一个人独处，",
+                "returnvalue": "I"
+            },
+                "B": {
+                "text": " B合别人在一起",
+                "returnvalue": "E"
+                }
+        },
+        "index":17
+    },
+    {
+        "question": "19:与很多人一起会 ",
+        "answer": {
+            "A": {
+                "text": "A令你活力培增，",
+                "returnvalue": "E"
+            },
+                "B": {
+                "text": " B常常令你心力憔悴",
+                "returnvalue": "I"
+                }
+        },
+        "index":18
+    },
+    {
+        "question": "20:你比较喜欢 ",
+        "answer": {
+            "A": {
+                "text": "  A很早便把约会、社交聚集等事情安排妥当，",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": " B无拘无束，看当时有什么好玩就做什么",
+                "returnvalue": "P"
+                }
+        },
+        "index":19
+    },
+    {
+        "question": "21:计划一个旅程时，你较喜欢 ",
+        "answer": {
+            "A": {
+                "text": "   A大部分的时间都是跟当天的感觉行事，",
+                "returnvalue": "P"
+            },
+                "B": {
+                "text": "  B事先知道大部分的日子会做什么",
+                "returnvalue": "J"
+                }
+        },
+        "index":20
+    },
+    {
+        "question": "22:在社交聚会中，你 ",
+        "answer": {
+            "A": {
+                "text": "    A和别人容易混熟，",
+                "returnvalue": "I"
+            },
+                "B": {
+                "text": "  B趋向自处一隅",
+                "returnvalue": "E"
+                }
+        },
+        "index":21
+    },
+    {
+        "question": "23:你通常 ",
+        "answer": {
+            "A": {
+                "text": "    A和别人容易混熟，",
+                "returnvalue": "E"
+            },
+                "B": {
+                "text": "  B趋向自处一隅",
+                "returnvalue": "I"
+                }
+        },
+        "index":22
+    },
+    {
+        "question": "24:哪些人会更吸引你？ ",
+        "answer": {
+            "A": {
+                "text": "     A 一个思想敏捷及非常聪颖的人，",
+                "returnvalue": "N"
+            },
+                "B": {
+                "text": "  B趋向自处一隅",
+                "returnvalue": "S"
+                }
+        },
+        "index":23
+    },
+    {
+        "question": "25:在日常工作中，你会  ",
+        "answer": {
+            "A": {
+                "text": "  A颇为喜欢处理迫使你分秒必争的突发",
+                "returnvalue": "J"
+            },
+                "B": {
+                "text": "  B通常预先计划，以免要在压力下工作",
+                "returnvalue": "P"
+                }
+        },
+        "index":24
+    },
+    {
+        "question": "26:你认为别人一般  ",
+        "answer": {
+            "A": {
+                "text": "    A要花很长时间才认识你，",
+                "returnvalue": "I"
+            },
+                "B": {
+                "text": "  B用很短的时间便认识你",
+                "returnvalue": "E"
+                }
+        },
+        "index":25
+    }
+    
+]
